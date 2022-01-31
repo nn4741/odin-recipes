@@ -1,0 +1,23 @@
+* {
+    background-color: #ff8b47;
+}
+h1 {
+    text-align: center;
+}
+.mainpic {
+    width: 200px;
+    height: auto;
+    align-items: right;
+}
+.rez {
+    text-align: left;
+    width: 50%;
+    margin-right: auto;
+}
+.rez2 {
+    text-align: right;
+    margin-left: auto%;
+}
+#wrapper {
+    width: 100%;
+}
